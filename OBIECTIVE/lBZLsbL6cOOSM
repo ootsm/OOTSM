@@ -1,1 +1,7 @@
-挦獬਍敀档⁯景൦挊獬਍捥潨匠䱁呕砠਍捥潨倠牡汯⁡慴攠瑳⁥倥十坓剏╄਍捥潨മ攊档⁯捁浵椠楴瘠楯猠档浩慢瀠牡汯ൡ瀊畡敳
+@echo off
+cls
+echo SALUT x
+echo Parola ta este %PASSWORD%
+echo.
+echo Acum iti voi schimba parola
+pause
